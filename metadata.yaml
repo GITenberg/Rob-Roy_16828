@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/59
     wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16828#Rob-Roy
 gutenberg_bookshelf:
 - FR Littérature
 - Historical Fiction
